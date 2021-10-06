@@ -1,11 +1,10 @@
-# Relational Database and SQL
+# Introduction to Relational Database and SQL
 
 ## Summary
-Structured Query Language (SQL) is a common tool for retrieving data from relational databases such as SQL Server, MySQL, MariaDB, and PostgreSQL. This course provides an introduction to this core programming language.
+Structured Query Language (SQL) is a common tool for retrieving data from relational databases such as SQL Server, MySQL, MariaDB, and PostgreSQL. This course provides an introduction to managing data held in a relational database management system (RDBMS).
 
 ### Topics
-
-- Terms (SQL, Schema, Relational Database, Statement, Cluase, Keyword, CRUD, etc.)
+- Terms (SQL, Schema, Relational Database, Statement, Clause, Keyword, CRUD, etc.)
 - Selecting data
 - Joining tables
 - Data types
@@ -19,22 +18,22 @@ The estimated time is four hours.
 - Media 1h 46m
 - Practice and set 2h
 
-## Resource
+## Resources
 LinkedIn Learning - [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming)
 
 ## Learning SQL Programming 
-Follow along with the video.  If Scott writes a query into SQLite, write the same query.  Do each challange and then watch solution.  Challanges are in chapters 1 - 4. After completing the video, do the exam, but you do not need to retake the exam.
+Follow along with the video.  If Scott writes a query into SQLite, write the same query.  Do each challenge and then watch solution.  Challenges are in chapters 1 - 4. After completing the video, do the exam, but you do not need to retake the exam.
 
 [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming)
 
 ## Introduction
 
-#### Download the excercise files
-Scott says you may download these files from GitHub, however, they are also included in the excercise files directory as a zip folder.  Download and unzip the excercise files.  (Be sure to unzip the folder before getting started.)
+#### Download the exercise files
+Scott says you may download these files from GitHub, however, they are also included in the exercise files directory as a zip folder.  Download and unzip the exercise files.  (Be sure to unzip the folder before getting started.)
 
-Use the tools sqllite tools recommended by Scott and the quizdata.db file.
+Use the tools sqlite tools recommended by Scott and the *quizdata.db* file.
 
-![Excercise files](./img/excercise-files.png)
+![Exercise files](./img/excercise-files.png)
 
 #### Download SQLite 
 
