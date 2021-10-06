@@ -16,7 +16,7 @@ Structured Query Language (SQL) is a common tool for retrieving data from relati
 ## Estimate Time
 The estimated time is four hours.
 - Media 1h 46m
-- Practice and set 2h
+- Practice and set up 2h
 
 ## Resources
 LinkedIn Learning - [Learning SQL Programming](https://www.linkedin.com/learning/learning-sql-programming-8382385/learning-sql-programming)
