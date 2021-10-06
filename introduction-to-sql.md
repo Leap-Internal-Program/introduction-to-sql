@@ -91,7 +91,7 @@ D - Delete
 
 Create, read, update, and delete (CRUD) are the four basic operations of persistent storage.  There are other operations we can perform on databases, but most often we are performing a CRUD operations on rows of data in database.
 
-### Ask for data from a database
+### Ask for Data from a Database
 Follow along with the video.  If Scott writes a query into SQLite, write the same query.
 
 ### Ask for Data from Two or More Tables
